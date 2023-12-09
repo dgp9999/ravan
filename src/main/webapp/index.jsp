@@ -7,7 +7,7 @@
     body {
       margin: 0;
       padding: 0;
-      background-image: url('bus-image.jpg'); /* Replace 'bus-image.jpg' with the actual path to your bus image */
+      background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ftravel-plane-bus-ship&psig=AOvVaw0vKIXp07IrLkHY2xBYsv8y&ust=1702200336870000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPjV0s2EgoMDFQAAAAAdAAAAABAE'); /* Replace 'bus-image.jpg' with the actual path to your bus image */
       background-size: cover;
       background-position: center;
       font-family: Arial, sans-serif;
